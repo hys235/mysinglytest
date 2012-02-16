@@ -1,10 +1,13 @@
 {
-  "description": "See all my photos, but upside down!",
-  "repository": {
-    "title": "Upside Down Photos",
-    "uses": {
-      "types": [ "photos" ],
-      "services": [ "facebook", "twitter", "foursquare", "instagram" ]
-    }
-  }
+    "name": "mysinglytest",
+    "version": "0.0.0",
+    "description": "This is my awesome app!",
+    "repository": {
+        "title": "My App",
+        "uses": {
+            "services": [ "facebook", "twitter", "foursquare", "instagram" ],
+            "types": [ "photos" ]
+        }
+    },
+    "author": "YoonSung Hong <hys235@gmail.com>"
 }
